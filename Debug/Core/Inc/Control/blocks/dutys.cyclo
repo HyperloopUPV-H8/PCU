@@ -1,0 +1,2 @@
+dutys.hpp:17:10:void Dutys::funcion(double, double, double, unsigned int)	7
+dutys.cpp:7:17:DutysStructData duty_calculator(double, double, double, unsigned int)	1

@@ -1,0 +1,10 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+Integrator.hpp:26:9:Integrator<IntegratorType::Trapezoidal>::Integrator(double, double)	1
+Integrator.hpp:27:14:virtual void Integrator<IntegratorType::Trapezoidal>::execute()	2
+voltages.hpp:20:5:Voltages::Voltages()	1
+voltages.hpp:22:10:void Voltages::funcion(double, double, double, double)	2
+voltages.cpp:5:19:VoltageStructData voltage_calculator(double, double, double, double)	1
+ControlBlock.hpp:19:1:ControlBlock<InputType, OutputType>::ControlBlock(InputType) [with InputType = double; OutputType = double]	1
+voltages.cpp:9:1:void __static_initialization_and_destruction_0(int, int)	3
+ControlBlock.hpp:24:6:void ControlBlock<InputType, OutputType>::input(InputType) [with InputType = double; OutputType = double]	1
+voltages.cpp:9:1:cpp)	1

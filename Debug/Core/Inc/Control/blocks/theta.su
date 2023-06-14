@@ -1,0 +1,2 @@
+../Core/Inc/Control/blocks/theta.hpp:17:10:void Theta::funcion(double, double)	32	static
+../Core/Inc/Control/blocks/theta.cpp:7:17:ThetaStructData theta_calculator(double, double)	40	static

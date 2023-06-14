@@ -1,0 +1,5 @@
+alpha_beta.hpp:18:5:Alpha_beta::Alpha_beta()	1
+alpha_beta.hpp:19:10:void Alpha_beta::funcion(double, double, double)	1
+alpha_beta.cpp:5:16:Alpha_betaData alpha_beta_calculator(double, double, double)	1
+alpha_beta.cpp:9:1:void __static_initialization_and_destruction_0(int, int)	3
+alpha_beta.cpp:9:1:cpp)	1

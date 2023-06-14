@@ -1,0 +1,10 @@
+/opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.200.202301161003/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m+dp/hard/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+/home/dgoncas/Desktop/Firmware_workspace/ST-LIB/Inc/ST-LIB_HIGH/Control/Blocks/Integrator.hpp:26:9:Integrator<IntegratorType::Trapezoidal>::Integrator(double, double)	32	static
+/home/dgoncas/Desktop/Firmware_workspace/ST-LIB/Inc/ST-LIB_HIGH/Control/Blocks/Integrator.hpp:27:14:virtual void Integrator<IntegratorType::Trapezoidal>::execute()	16	static
+../Core/Inc/Control/blocks/voltages.hpp:20:5:Voltages::Voltages()	16	static
+../Core/Inc/Control/blocks/voltages.hpp:22:10:void Voltages::funcion(double, double, double, double)	64	static
+../Core/Inc/Control/blocks/voltages.cpp:5:19:VoltageStructData voltage_calculator(double, double, double, double)	96	static
+/home/dgoncas/Desktop/Firmware_workspace/ST-LIB/Inc/ST-LIB_HIGH/Control/Blocks/../ControlBlock.hpp:19:1:ControlBlock<InputType, OutputType>::ControlBlock(InputType) [with InputType = double; OutputType = double]	24	static
+../Core/Inc/Control/blocks/voltages.cpp:9:1:void __static_initialization_and_destruction_0(int, int)	16	static
+/home/dgoncas/Desktop/Firmware_workspace/ST-LIB/Inc/ST-LIB_HIGH/Control/Blocks/../ControlBlock.hpp:24:6:void ControlBlock<InputType, OutputType>::input(InputType) [with InputType = double; OutputType = double]	24	static
+../Core/Inc/Control/blocks/voltages.cpp:9:1:cpp)	8	static

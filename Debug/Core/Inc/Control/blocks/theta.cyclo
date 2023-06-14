@@ -1,0 +1,2 @@
+theta.hpp:17:10:void Theta::funcion(double, double)	13
+theta.cpp:7:17:ThetaStructData theta_calculator(double, double)	1

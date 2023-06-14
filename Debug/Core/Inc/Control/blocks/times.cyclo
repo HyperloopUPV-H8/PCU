@@ -1,0 +1,2 @@
+times.hpp:18:10:void Times::funcion(double, double, double, unsigned int)	1
+times.cpp:5:17:TimesStructData calculate_times(double, double, double, unsigned int)	1

@@ -1,0 +1,2 @@
+../Core/Inc/Control/blocks/times.hpp:18:10:void Times::funcion(double, double, double, unsigned int)	48	static
+../Core/Inc/Control/blocks/times.cpp:5:17:TimesStructData calculate_times(double, double, double, unsigned int)	96	static
